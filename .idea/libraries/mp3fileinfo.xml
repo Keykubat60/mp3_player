@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mp3fileinfo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/mp3fileinfo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
